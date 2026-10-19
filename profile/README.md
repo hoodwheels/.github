@@ -62,10 +62,9 @@ Until launch there is no official HOTW contract. The address will only be announ
 
 Solidity · Foundry · OpenZeppelin · Uniswap V3 · Next.js · wagmi · viem · IPFS
 
-<!-- Add your social links here once the accounts exist, e.g.
 ## Community
-[X](https://x.com/...) · [Telegram](https://t.me/...) · [Discord](https://discord.gg/...)
--->
+[X]([https://x.com/...](https://x.com/HotwheelsTrade)) · [Website](https://hoodwheels.fun)
+
 
 ---
 
